@@ -8,4 +8,4 @@ const function_interger = (number) => {
     return "Odd";
   }
 };
-console.log(function_interger(3));
+console.log(function_interger(2));
